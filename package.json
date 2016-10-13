@@ -1,0 +1,22 @@
+{
+  "name": "kf5-api",
+  "version": "0.0.1",
+  "description": "kf5 API client",
+  "homepage": "https://github.com/holyrain/node-kf5-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "keywords": [
+    "kf5",
+    "API",
+    "helpdesk",
+    "support"
+  ],
+  "author": "Ming Liu <384069799@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "0.9.x",
+    "request": "2.55.x"
+  }
+}
